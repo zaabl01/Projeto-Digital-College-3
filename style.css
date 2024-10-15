@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.cabecalho{
+    margin-top: 20px;
+}
+.titulo1{
+    color: #b69d0f;
+    font-size: 36px;
+}
+body{
+    background-image: url(https://media.discordapp.net/attachments/1148724561706225739/1295861481732050945/Novo_Projeto_2.png?ex=6710308d&is=670edf0d&hm=f7a0fa18dc531d0d38619336970970a662b0f8bae0db395849c95089eb706f3b&=&format=webp&quality=lossless&width=1190&height=669);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.conteudo-texto{
+    text-align: center;
+    color: #b69d0f;
+    
+    
+}
+.btn-isaac{
+    background-color: #b69d0f;
+    color: black;
+
+}
+.btn-isaac2{
+    background-color:#e6d366;
+    color: black;
+    border-radius: 5px;
+    width: 200px;
+    height: 70px;
+    font-size: 25px;
+    font-weight: bolder;
+    transition: 0.5s;
+
+}
+.btn-isaac2:hover{
+    background-color:black;
+    color: #e6d366;
+    border-radius: 5px;
+    width: 250px;
+    height: 90px;
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+.btn-isaac2:active{
+    background-color: black;
+    color: #564900;
+    border-radius: 5px;
+    width: 200px;
+    height: 70px;
+    font-size: 25px;
+    font-weight: bolder;
+    transition: 0.5s;
+
+}
+.btn-outline-ligth{
+    background-color: transparent;
+    color: white;
+    border: white 1px solid;
+    border-radius: 5px;
+    width: 200px;
+    height: 70px;
+    font-size: 25px;
+    font-weight: bolder;
+    transition: 0.6s;
+}
+.btn-outline-ligth:hover{
+    background-color: transparent;
+    color: rgb(0, 202, 67);
+    border: rgb(0, 202, 67) 3px solid;
+    border-radius: 5px;
+    width: 250px;
+    height: 80px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.btn-outline-ligth:active{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    border: rgb(0, 0, 0) 3px solid;
+    border-radius: 5px;
+    width: 200px;
+    height: 80px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.meio{
+    margin: 0 auto;
+}
+.conteudo-section{
+    margin-top: 150px;
+    background-image: url(https://media.discordapp.net/attachments/1148724561706225739/1295873330552897536/Novo_Projeto_4_1.png?ex=67103b96&is=670eea16&hm=dbc2aae84ca25c520b0f2a2503cf3630c038ebe58d477ab4936a150a7f7245ce&=&format=webp&quality=lossless&width=1189&height=669);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 720px;
+
+    
+}
+.texto{
+    text-align: center;
+    font-size: 85px;
+    font-weight: 800;
+    color: #e6d366;
+
+}
+
+.conteudo-button{
+    margin-top: 250px;
+    gap: 25px;
+}
+
+.conteudo-nav{
+    text-decoration: none;
+    color: white ;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.6s;
+}
+.conteudo-nav:hover{
+    text-decoration: underline white ;
+    color: rgb(167, 167, 167) ;
+    font-size: 18px;
+    font-weight: 600;
+    
+    
+}
+.conteudo-nav1{
+    display: flex;
+    gap: 15px;
+}
+.btn-isaac{
+    background-color:#e6d366;
+    color: black;
+    border-radius: 5px;
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bolder;
+    transition: 0.5s;
+}
+.btn-isaac:hover{
+    background-color: black;
+    color: #e6d366;
+    border-radius: 5px;
+    width: 130px;
+    height: 45px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.btn-isaac:active{
+    background-color: black;
+    color: #685905;
+    border-radius: 5px;
+    width: 100px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.limite{
+    background-color: red;
+    font-size: 4px;
+}
